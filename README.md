@@ -13,7 +13,7 @@ The purpose of this work has been to gather knowledge from G11n Quality experts 
 The document source is available on:
 
 * [GitHub](globalization-defects.md) - Markdown version
-* [Google Docs](https://docs.google.com/document/d/1xfDrQQ7usEyu7V4UUp76anBJnmOF58HFWiib2HqOu1s/edit) - initial Google Docs version
+* [Google Docs](https://docs.google.com/document/d/1xfDrQQ7usEyu7V4UUp76anBJnmOF58HFWiib2HqOu1s/edit) - initial Google Docs version _<to be updated>_
 
 ## Releases
 
@@ -22,9 +22,9 @@ The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globa
 ## Contributors
 
 * **Satyendra Sheel** – *Adobe*
-* **Lugarini, Enrico** – *PTC*
+* **Enrico Lugarini** – *PTC*
 * **Lynn Ma** – *VMWare*
-* **Pattabiraman, Arvind** – *Dell*
+* **Arvind Pattabiraman** – *Dell*
 
 
 ## Contributing
@@ -33,8 +33,7 @@ You can contribute by suggesting changes in the project [Issues](https://github.
 
 ## License
 
-This project is licensed under the Creative Commons CC0 1.0 Universal
-Public License - see the [LICENSE](LICENSE) file for details
+This project is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International Public License - see the LICENSE file for details
 
 ## Acknowledgments
 
