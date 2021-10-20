@@ -40,7 +40,7 @@ Upon completion of the first draft, we sought feedback from practitioners and ex
 
 ### Internationalization defects 
 
-| <img width=400/> Keyword <br> (Level 1)  | <img width=400/> Keyword <br> (Level 2)                                                                            | Applicable to               |  Definition|
+| <img width=400/> Keyword <br> (Level 1)  | <img width=600/> Keyword <br> (Level 2)                                                                            | Applicable to               |  Definition|
 |--------------------------------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------|--------------------------------------------------------------------|
 | INTL-Layout                          |                                                                                                                        | Software <br> Documentation | Any I18N layout/truncation issue observed in localized UI and doc. |
 | INTL-Locale                          |  *-Dates-Times <br> *-Collation <br> *-Numbers                                                                         | Software                    | This covers issues related to locale related changes like Collation, Time, Date, Region, Numbers etc. |
@@ -54,7 +54,7 @@ Upon completion of the first draft, we sought feedback from practitioners and ex
 
 
 ### Localization defects
-|  <img width=400/> Keyword           | Applicable to                | Definition      |
+|  <img width=500/> Keyword           | Applicable to                | Definition      |
 | ----------------------------------- | -----------------------------| ----------------|
 | LOC-Functional                      | Software                     | Features that do not function correctly in some languages but work in other languages. |
 | LOC-Shortcut-Hotkeys                | Software                     | This will cover bugs for shortcuts keys and hotkeys.  |
