@@ -4,7 +4,7 @@
 
 | Version |  Revision Date     | Description|
 |---------|--------------------|----------------------------------------------------------------------------------|
-| v1.0    |  13 Oct 2021       | First Draft sent by the GILT Leaders’ Forum for Review by GILT community members |
+| v0.1    |  21 Oct 2021       | First Draft  |
 
 
 ## Globalization Defects Task Force Contributors
