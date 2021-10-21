@@ -13,7 +13,8 @@ The purpose of this work has been to gather knowledge from G11n Quality experts 
 The document source is available on:
 
 * [GitHub](globalization-defects.md) - Markdown version
-* [Google Docs](https://docs.google.com/document/d/1xfDrQQ7usEyu7V4UUp76anBJnmOF58HFWiib2HqOu1s/edit) - initial Google Docs version _<to be updated>_
+* [Google Docs](https://drive.google.com/file/d/1PkUEM9MoT8_3m8n8w5GVKAE3xIrrL5nc/view) - initial Google Docs version
+  
 
 ## Releases
 
