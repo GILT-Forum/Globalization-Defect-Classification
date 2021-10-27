@@ -1,19 +1,19 @@
-# Globalization-Defects
+# Globalization-Defect-Classification
 
-This project documents the standard set of categories to classify [Globalization defects](globalization-defects.md).
+This project documents the standard set of categories to classify [globalization defects](globalization-defects.md).
 
 ## Introduction
 
-The GILT Leaders Forum is a self-organized group of seasoned globalization professionals representing various companies from the "buyer" side. The group chartered a Globalization Defects Management Task Force to research and produce standard set of categories to classify globalization defects. By globalization, we refer to internationalization, localization and linguistic issues.
+The GILT Leaders Forum is a self-organized group of seasoned globalization professionals representing various companies from the "buyer" side. The group chartered a Globalization Defect Classification Task Force to research and produce standard set of categories to classify globalization defects. By globalization, we refer to internationalization, localization and linguistic issues.
 
-The purpose of this work has been to gather knowledge from G11n Quality experts and transfer it to those responsible for managing quality/defects in their own organizations, or on behalf of others.
+The purpose of this work has been to gather knowledge from G11n experts and transfer it to those responsible for managing quality/defects in their own organizations, or on behalf of others.
 
 ## Document source
 
 The document source is available on:
 
 * [GitHub](globalization-defects.md) - Markdown version
-* [Google Docs](https://drive.google.com/file/d/1PkUEM9MoT8_3m8n8w5GVKAE3xIrrL5nc/view) - initial Google Docs version
+* [Google Docs](https://drive.google.com/file/d/1PkUEM9MoT8_3m8n8w5GVKAE3xIrrL5nc/view) - Initial Google Docs version
   
 
 ## Releases
@@ -22,10 +22,10 @@ The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globa
 
 ## Contributors
 
-* **Satyendra Sheel** – *Adobe*
-* **Enrico Lugarini** – *PTC*
-* **Lynn Ma** – *VMWare*
 * **Arvind Pattabiraman** – *Dell*
+* **Enrico Lugarini** – *PTC*
+* **Lynn Ma** – *VMware*
+* **Satyendra Sheel** – *Adobe*
 
 
 ## Contributing
