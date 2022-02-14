@@ -22,7 +22,7 @@ The document is published as PDF to [GitHub](https://github.com/GILT-Forum/Globa
 
 ## Contributors
 
-* **Arvind Pattabiraman** – *Dell*
+* **Arvind Pattabiraman** – *ServiceNow*
 * **Enrico Lugarini** – *PTC*
 * **Lynn Ma** – *VMware*
 * **Satyendra Sheel** – *Adobe*
