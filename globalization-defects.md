@@ -9,7 +9,7 @@
 
 ## Globalization Defect Classification Task Force Contributors
 
-Arvind Pattabiraman – **Dell** \
+Arvind Pattabiraman – **ServiceNow** \
 Enrico Lugarini – **PTC** \
 Lynn Ma – **VMware** \
 Satyendra Sheel – **Adobe**
