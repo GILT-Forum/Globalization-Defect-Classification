@@ -4,7 +4,7 @@
 
 | Version |  Revision Date     | Description|
 |---------|--------------------|----------------------------------------------------------------------------------|
-| v0.1    |  21 Oct 2021       | First Draft  |
+| v1.0    |  14 Feb 2022       | Published markdown document  |
 
 
 ## Globalization Defect Classification Task Force Contributors
@@ -22,9 +22,16 @@ Satyendra Sheel – **Adobe**
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />
 
-This resource is free for you to use and share as long as you adhere to the terms of the CC license.
-
 Globalization Defect Classification is licensed under a [*Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License*](http://creativecommons.org/licenses/by-nc-sa/4.0/).
+
+As per the License, you may not use the material for commercial purposes (i.e. to publish and/or monetize the content of the document).
+
+You are allowed to use the content of this material provided that you follow the license usage terms for the following purposes:
+
+- To improve your company’s ROI by setting up or improving your localization and globalization processes
+- For education and training.
+
+As per the license terms, you must always give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use. If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
 
 ## Introduction
 
